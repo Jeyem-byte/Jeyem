@@ -1,0 +1,72 @@
+import java.util.*;
+
+ // Compiler version JDK 11.0.2
+
+ public class Name
+ {
+   
+    //First Name
+    String name1 = "J";
+    String name2 = "0";
+    String name3 = "H";
+    String name4 = "N";
+    String name5 = "M";
+    String name6 = "I";
+    String name7 = "C";
+    String name8 = "H";
+    String name9 = "A";
+    String name10 = "E";
+    String name11 = "L";
+    
+    //Last Name
+    String name12 = "B";
+    String name13 = "R";
+    String name14 = "A";
+    String name15 = "V";
+    String name16 = "O";
+    
+    //Middle Name
+    String name17 = "F";
+    String name18 = "E";
+    String name19 = "R";
+    String name20 = "N";
+    String name21 = "A";
+    String name22 = "N";
+    String name23 = "D";
+    String name24 = "E";
+    String name25 = "Z";
+    
+   public static void main(String args[]){
+    
+    Name fname = new Name();
+    Name lname = new Name();
+    Name mname = new Name();
+    
+    System.out.println(fname.name1);
+    System.out.println(fname.name2);
+    System.out.println(fname.name3);
+    System.out.println(fname.name4);
+    System.out.println(fname.name5);
+    System.out.println(fname.name6);
+    System.out.println(fname.name7);
+    System.out.println(fname.name8);
+    System.out.println(fname.name9);
+    System.out.println(fname.name10);
+    System.out.println(fname.name11);
+    System.out.println(lname.name12);
+    System.out.println(lname.name13);
+    System.out.println(lname.name14);
+    System.out.println(lname.name15);
+    System.out.println(lname.name16);
+    System.out.println(mname.name17);
+    System.out.println(mname.name18);
+    System.out.println(mname.name19);
+    System.out.println(mname.name20);
+    System.out.println(mname.name21);
+    System.out.println(mname.name22);
+    System.out.println(mname.name23);
+    System.out.println(mname.name24);
+    System.out.println(mname.name25);
+    
+   }
+ }
